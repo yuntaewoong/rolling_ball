@@ -11,6 +11,10 @@
 **screenshot 2 육면체를 수집시**  
 회전하는 육면체에 충돌하면 충돌을 인식하여 육면체가 사라지는데  
 사라지면서 화면위쪽의 count ui부분의 count값을 1 올려주게 된다.  
+![screenshot_3](https://user-images.githubusercontent.com/38284288/40974648-261a1fa4-6903-11e8-93b1-544cae174b9a.png)  
+**screenshot 3 모든 육면체를 다 수집시**  
+모든 육면체들을 수집하면 그것을 인식하여  
+화면 중앙에 You win!이라는 text를 보여준다.  
 
 
 
